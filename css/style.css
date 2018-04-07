@@ -1,0 +1,12 @@
+body {
+/*   background-image: url(https://img00.deviantart.net/d5a4/i/2012/106/e/6/gothic_clock_by_koraxsciurus-d4wbv6w.png);  */
+  background-size: 100%;
+  background-attachment: fixed;
+  font-family: "Montserrat";
+}
+h2 {
+  display: inline;
+}
+#start {
+  margin: 10px;
+}
